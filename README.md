@@ -1,2 +1,2 @@
 # arrayInPHP
-An example of an array in PHP.
+An example of an associative array in PHP.
