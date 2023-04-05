@@ -1,0 +1,10 @@
+<?php
+$arr_services = array(
+  "Web Development" => "Create web sites for any audience and for any purpose.",
+  "Digital Photography" => "Our photographic mavens can cover any event or other need and produce the winning shot!",
+  "Experience Testing" => "We can test any website to ensure safety and usability. The last thing you want is to lose customers because of a poor user experience.",
+	"Digital Video" => "Documentaries. Biographies. Sports reels. We have you covered for all you digital video needs.",
+	"Compliance" =>"It's a scary world out there. Regulators are keen to attack your company and drag your name through the mud. We can help ensure that you are digitally compliant with the ADA, EU, and other reglatory landmines.",
+	"Project Lead" => "If you have an idea but don't know where to start, hire us to make you dream a reality. From initial concept through prototype to launch we can guide you."
+);
+?>
